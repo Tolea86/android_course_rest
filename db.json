@@ -1,0 +1,44 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "post_text": "Hello My Friends",
+            "post_likes": 1
+        },
+        {
+            "id": 2,
+            "post_text": "Another One",
+            "post_likes": 5000
+        },
+        {
+            "id": 3,
+            "post_text": "I Like Android",
+            "post_likes": 0
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "comment_text": "And you Hello",
+            "post_id": 1
+        },
+        {
+            "id": 2,
+            "comment_text": "Another Whut?",
+            "post_id": 2
+        },
+        {
+            "id": 3,
+            "comment_text": "Are you drunk?",
+            "post_id": 2
+        },
+        {
+            "id": 4,
+            "comment_text": "Oh shit",
+            "post_id":3
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
