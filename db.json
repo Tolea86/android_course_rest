@@ -3,17 +3,20 @@
         {
             "id": 1,
             "post_text": "Hello My Friends",
-            "post_likes": 1
+            "post_likes": 1,
+            "photo_link": "https://vignette.wikia.nocookie.net/simpsonsfanon/images/6/65/Bart_Simpson.png/revision/latest?cb=20140202173133"
         },
         {
             "id": 2,
             "post_text": "Another One",
-            "post_likes": 5000
+            "post_likes": 5000,
+            "photo_link": "https://images.immediate.co.uk/volatile/sites/3/2018/08/Simpsons_SO28_Gallery_11-fb0b632.jpg?quality=90&resize=620,413"
         },
         {
             "id": 3,
             "post_text": "I Like Android",
-            "post_likes": 0
+            "post_likes": 0,
+            "photo_link": "http://www.universitytimes.ie/wp-content/uploads/2018/01/Screen-Shot-2018-01-03-at-11.32.32.png"
         }
     ],
     "comments": [
