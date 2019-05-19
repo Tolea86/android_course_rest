@@ -41,6 +41,17 @@
             "post_id":3
         }
     ],
+    "users": [
+        {
+            "id": 1,
+            "email": "test@mail.com",
+            "user_name": "Yolo",
+            "full_name": "Yolo Yoloievich",
+            "phone_number": "060123123",
+            "date_of_birth": 123123123,
+            "password": "testing"
+        }
+    ],
     "profile": {
         "name": "typicode"
     }
